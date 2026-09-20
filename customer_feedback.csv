@@ -1,0 +1,9 @@
+FeedbackID,CustomerID,FeedbackDate,Rating,Feedback
+1,C001,2026-01-05,5,"The product is excellent and delivery was very fast."
+2,C002,2026-01-08,2,"I am very disappointed. The product arrived damaged."
+3,C003,2026-01-12,4,"Customer support solved my problem quickly."
+4,C004,2026-01-15,1,"Terrible experience. Nobody responded to my complaint."
+5,C005,2026-01-20,3,"The product is okay but delivery was late."
+6,C006,2026-02-03,5,"Amazing quality. I am very happy with my purchase."
+7,C007,2026-02-07,2,"The application keeps crashing and support was not helpful."
+8,C008,2026-02-11,4,"Good service and reasonable price."
