@@ -185,4 +185,4 @@
 
    👤 Author: dna5421
    📧 GitHub Profile: https://github.com/dna5421
-   🔗 Repository: https://github.com/dna5421/AI-Powered-Customer-Feedback-Analysis
+   🔗 Repository: github.com/dna5421/AI-Powered-Customer-Feedback-Analysis
