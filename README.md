@@ -1,7 +1,7 @@
 <body>
 <div class="container">
 
-<h1>🎯 AI-Powered Customer Feedback Analysis</h1>
+<h1>🎯 AI-Powered Customer Feedback Analysis Dashboard</h1>
 
 <h2>📝 Project Overview</h2>
 <p>This project analyzes customer feedback using<strong>Python</strong> and a <strong>generative AI model</strong>to classify each review by sentiment, category, emotion, priority,summary, and recommended action.</p>
@@ -302,7 +302,7 @@ Database: CustomerAnalytics</pre>
 <div class="highlight">
     <p><strong>Author:</strong> dna5421</p>
     <p><strong>GitHub Profile:</strong><a href="https://github.com/dna5421" target="_blank">github.com/dna5421</a></p>
-    <p><strong>Repository:</strong><a href="https://github.com/dna5421/AI-Powered-Customer-Feedback-Analysis-" target="_blank">AI-Powered-Customer-Feedback-Analysis</a></p>
+    <p><strong>Repository:</strong><a href="https://github.com/dna5421/AI-Powered-Customer-Feedback-Analysis-Dashboard" target="_blank">AI-Powered-Customer-Feedback-Analysis</a></p>
 
 </div>
 
