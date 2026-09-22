@@ -1,173 +1,7 @@
-<!DOCTYPE html>
-
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI-Powered Customer Feedback Analysis</title>
-
-<style>
-    body {
-        font-family: Arial, Helvetica, sans-serif;
-        line-height: 1.7;
-        margin: 0;
-        padding: 0;
-        background: #f4f7fb;
-        color: #222;
-    }
-
-    .container {
-        max-width: 1100px;
-        margin: 40px auto;
-        padding: 30px;
-        background: #ffffff;
-        border-radius: 12px;
-        box-shadow: 0 4px 18px rgba(0, 0, 0, 0.08);
-    }
-
-    h1 {
-        color: #1f4e78;
-        border-bottom: 3px solid #1f4e78;
-        padding-bottom: 12px;
-    }
-
-    h2 {
-        color: #2f75b5;
-        margin-top: 35px;
-    }
-
-    h3 {
-        color: #444;
-    }
-
-    .highlight {
-        background: #eef6ff;
-        border-left: 5px solid #2f75b5;
-        padding: 15px 20px;
-        margin: 20px 0;
-        border-radius: 6px;
-    }
-
-    .success {
-        background: #eef9f0;
-        border-left: 5px solid #28a745;
-        padding: 15px 20px;
-        margin: 20px 0;
-        border-radius: 6px;
-    }
-
-    .warning {
-        background: #fff8e6;
-        border-left: 5px solid #f0ad4e;
-        padding: 15px 20px;
-        margin: 20px 0;
-        border-radius: 6px;
-    }
-
-    ul, ol {
-        padding-left: 25px;
-    }
-
-    li {
-        margin-bottom: 7px;
-    }
-
-    code {
-        background: #f1f1f1;
-        padding: 3px 7px;
-        border-radius: 4px;
-        font-family: Consolas, monospace;
-    }
-
-    pre {
-        background: #1e1e1e;
-        color: #f8f8f2;
-        padding: 18px;
-        border-radius: 8px;
-        overflow-x: auto;
-    }
-
-    .card-container {
-        display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-        gap: 15px;
-        margin-top: 20px;
-    }
-
-    .card {
-        background: #f8fbff;
-        padding: 20px;
-        border-radius: 10px;
-        border: 1px solid #dce8f5;
-    }
-
-    .card strong {
-        display: block;
-        color: #1f4e78;
-        margin-bottom: 8px;
-    }
-
-    table {
-        width: 100%;
-        border-collapse: collapse;
-        margin-top: 15px;
-    }
-
-    th, td {
-        border: 1px solid #ddd;
-        padding: 12px;
-        text-align: left;
-    }
-
-    th {
-        background: #1f4e78;
-        color: white;
-    }
-
-    tr:nth-child(even) {
-        background: #f7f9fc;
-    }
-
-    .footer {
-        margin-top: 40px;
-        padding-top: 20px;
-        border-top: 1px solid #ddd;
-        text-align: center;
-        color: #666;
-    }
-
-    a {
-        color: #2f75b5;
-        text-decoration: none;
-    }
-
-    a:hover {
-        text-decoration: underline;
-    }
-
-    @media (max-width: 600px) {
-        .container {
-            margin: 10px;
-            padding: 20px;
-        }
-
-        h1 {
-            font-size: 26px;
-        }
-    }
-</style>
-```
-
-</head>
-
 <body>
-
 <div class="container">
 
-```
-
 <h1>🎯 AI-Powered Customer Feedback Analysis</h1>
-
 
 <h2>📝 Project Overview</h2>
 
@@ -192,7 +26,6 @@
 </div>
 
 
-
 <h2>📝 Problem Statement</h2>
 
 <p>
@@ -208,7 +41,6 @@
     and creating a structured data pipeline for business monitoring and
     decision-making.
 </p>
-
 
 
 <h2>📊 Dataset</h2>
@@ -238,66 +70,30 @@
 
 <h3>AI-Processed Output</h3>
 
-<p>
-    The repository also contains the processed output:
-</p>
+<p>The repository also contains the processed output:</p>
 
-<code>
-    customer_feedback_ai_analysis_2026-09-20_13-11-49.csv
-</code>
+<code>customer_feedback_ai_analysis_2026-09-20_13-11-49.csv</code>
 
 
-<!-- TECHNOLOGIES -->
+
 <h2>⚒️ Tools and Technologies</h2>
 
 <div class="card-container">
-
-    <div class="card">
-        <strong>Programming</strong>
-        Python, Pandas
-    </div>
-
-    <div class="card">
-        <strong>Generative AI</strong>
-        Google Gemini AI API
-    </div>
-
-    <div class="card">
-        <strong>Database</strong>
-        Microsoft SQL Server
-    </div>
-
-    <div class="card">
-        <strong>Database Connectivity</strong>
-        SQLAlchemy, pyodbc, ODBC Driver 17
-    </div>
-
-    <div class="card">
-        <strong>Visualization</strong>
-        Microsoft Power BI
-    </div>
-
-    <div class="card">
-        <strong>Data Formats</strong>
-        CSV and Excel-style reporting
-    </div>
-
-    <div class="card">
-        <strong>Configuration</strong>
-        Python dotenv
-    </div>
+    <div class="card"><strong>Programming</strong>Python, Pandas</div>
+    <div class="card"><strong>Generative AI</strong>Google Gemini AI API</div>
+    <div class="card"><strong>Database</strong>Microsoft SQL Server</div>
+    <div class="card"><strong>Database Connectivity</strong>SQLAlchemy, pyodbc, ODBC Driver 17</div>
+    <div class="card"><strong>Visualization</strong>Microsoft Power BI</div>
+    <div class="card"><strong>Data Formats</strong>CSV and Excel-style reporting</div>
+    <div class="card"><strong>Configuration</strong>Python dotenv</div>
 
 </div>
 
 
-<!-- METHODS -->
 <h2>Ⓜ️ Methodology</h2>
 
 <ol>
-
-    <li>
-        <strong>Load and Clean the Feedback Dataset</strong>
-
+    <li><strong>Load and Clean the Feedback Dataset</strong>
         <ul>
             <li>Remove duplicate FeedbackID values</li>
             <li>Handle missing feedback comments</li>
@@ -306,19 +102,11 @@
             <li>Remove incomplete records</li>
         </ul>
     </li>
-
-    <li>
-        <strong>Send Each Review to Gemini AI</strong>
-
-        <p>
-            Each customer review is submitted to Gemini using a structured
-            prompt that requests JSON output.
-        </p>
+    <li> <strong>Send Each Review to Gemini AI</strong>
+        <p>Each customer review is submitted to Gemini using a structuredprompt that requests JSON output.</p>
     </li>
-
     <li>
         <strong>AI Classification</strong>
-
         <ul>
             <li>Sentiment</li>
             <li>Category</li>
@@ -328,70 +116,41 @@
             <li>Recommended Action</li>
         </ul>
     </li>
-
     <li>
         <strong>Merge AI Results</strong>
-
-        <p>
-            The AI-generated analysis is merged back into the original
-            customer feedback dataset.
-        </p>
+        <p>The AI-generated analysis is merged back into the originalcustomer feedback dataset.</p>
     </li>
-
     <li>
         <strong>Create Business Flags</strong>
-
         <ul>
             <li>NegativeFlag</li>
             <li>HighPriorityFlag</li>
             <li>Month</li>
         </ul>
     </li>
-
     <li>
         <strong>Export Processed Data</strong>
-
-        <p>
-            The final analyzed dataset is saved as a CSV file.
-        </p>
+        <p>The final analyzed dataset is saved as a CSV file.</p>
     </li>
-
     <li>
         <strong>Load Data into SQL Server</strong>
-
-        <p>
-            Processed feedback records are inserted into SQL Server
-            for analytics and reporting.
-        </p>
+        <p>Processed feedback records are inserted into SQL Server for analytics and reporting.</p>
     </li>
-
     <li>
         <strong>Power BI Dashboard</strong>
-
-        <p>
-            Power BI connects to the structured data and provides
-            interactive business dashboards.
-        </p>
+        <p>Power BI connects to the structured data and provides interactive business dashboards.</p>
     </li>
 
 </ol>
 
 
-<!-- AI OUTPUT -->
 <h2>🤖 AI Model & Output</h2>
 
-<p>
-    The project uses:
-</p>
+<p>The project uses:</p>
 
-<div class="highlight">
-    <strong>Google Gemini — gemini-3.5-flash-lite</strong>
-</div>
+<div class="highlight"><strong>Google Gemini — gemini-3.5-flash-lite</strong></div>
 
-<p>
-    The model is instructed to return structured JSON in the following format:
-</p>
-```
+<p>The model is instructed to return structured JSON in the following format:</p>
 
 <pre>{
     "sentiment": "Positive",
@@ -402,41 +161,32 @@
     "action": "Recommended business action"
 }</pre>
 
-```
-<!-- EXAMPLE -->
+
 <h2>📌 Example AI Output</h2>
 
 <div class="warning">
-
     <h3>Feedback 2</h3>
-
     <table>
-
         <tr>
             <th>Field</th>
             <th>AI Output</th>
         </tr>
-
         <tr>
             <td>Sentiment</td>
             <td>Negative</td>
         </tr>
-
         <tr>
             <td>Category</td>
             <td>Delivery</td>
         </tr>
-
         <tr>
             <td>Emotion</td>
             <td>Disappointed</td>
         </tr>
-
         <tr>
             <td>Priority</td>
             <td>High</td>
         </tr>
-
         <tr>
             <td>Summary</td>
             <td>
@@ -444,44 +194,23 @@
                 with the condition.
             </td>
         </tr>
-
         <tr>
             <td>Action</td>
             <td>
                 Initiate a replacement or refund and improve packaging.
             </td>
         </tr>
-
     </table>
 
 </div>
 
-
-<!-- KEY INSIGHTS -->
 <h2>📊 Key Insights</h2>
 
 <div class="card-container">
-
-    <div class="card">
-        <strong>Positive Feedback</strong>
-        4 records
-    </div>
-
-    <div class="card">
-        <strong>Negative Feedback</strong>
-        3 records
-    </div>
-
-    <div class="card">
-        <strong>Neutral Feedback</strong>
-        1 record
-    </div>
-
-    <div class="card">
-        <strong>High-Priority Complaints</strong>
-        3 records
-    </div>
-
+    <div class="card"><strong>Positive Feedback</strong>4 records</div>
+    <div class="card"><strong>Negative Feedback</strong>3 records</div>
+    <div class="card"><strong>Neutral Feedback</strong>1 record</div>
+    <div class="card"><strong>High-Priority Complaints</strong>3 records</div>
 </div>
 
 <h3>Main Issue Areas</h3>
@@ -501,69 +230,44 @@
     <li>Strong praise for product quality and support service</li>
 </ul>
 
-
-<!-- RUN PROJECT -->
 <h2>🚀 How to Run This Project</h2>
 
 <h3>1. Clone the Repository</h3>
 
-<p>
-    Clone or download the project repository to your local machine.
-</p>
+<p>Clone or download the project repository to your local machine.</p>
 
 <h3>2. Configure Gemini API</h3>
 
-<p>
-    Create a <code>.env</code> file in the project root:
-</p>
-```
+<p>Create a <code>.env</code> file in the project root:</p>
 
 <pre>GEMINI_API_KEY=your_api_key_here</pre>
 
-```
 <h3>3. Install Dependencies</h3>
-```
 
 <pre>pip install pandas python-dotenv google-genai sqlalchemy pyodbc</pre>
 
-```
 <h3>4. Configure SQL Server</h3>
 
-<p>
-    The current script targets the following local SQL Server environment:
-</p>
-```
+<p>The current script targets the following local SQL Server environment:</p>
 
 <pre>Server: DESKTOP-2V74QG8\SQLEXPRESS
 Database: CustomerAnalytics</pre>
 
-```
-<p>
-    Update these values according to your local SQL Server configuration.
-</p>
-
+<p>Update these values according to your local SQL Server configuration.</p>
 
 <h3>5. Add Dataset</h3>
 
-<p>
-    Place the following file in the project folder:
-</p>
-```
+<p>Place the following file in the project folder:</p>
 
 <pre>customer_feedback.csv</pre>
 
-```
 <h3>6. Run the Python Script</h3>
-```
 
 <pre>python feedback_analysis_gemini.py</pre>
 
-```
 <h3>7. Pipeline Execution</h3>
 
-<p>
-    The script will automatically:
-</p>
+<p>The script will automatically:</p>
 
 <ul>
     <li>Clean the customer feedback data</li>
@@ -573,17 +277,10 @@ Database: CustomerAnalytics</pre>
     <li>Print a completion summary</li>
 </ul>
 
-
-<!-- RESULTS -->
 <h2>🎯 Results</h2>
 
 <div class="success">
-
-    <p>
-        The project demonstrates an end-to-end AI-powered customer feedback
-        analysis pipeline that transforms unstructured customer comments
-        into structured and actionable business data.
-    </p>
+    <p>The project demonstrates an end-to-end AI-powered customer feedbackanalysis pipeline that transforms unstructured customer commentsinto structured and actionable business data.</p>
 
 </div>
 
@@ -601,40 +298,17 @@ Database: CustomerAnalytics</pre>
 <h3>Sample Dataset Findings</h3>
 
 <ul>
-    <li>
-        Most reviews are positive or neutral, but serious issues exist
-        within delivery and support.
-    </li>
-
-    <li>
-        High-priority negative feedback provides actionable signals
-        for customer service and operations teams.
-    </li>
-
-    <li>
-        Product and support quality are important drivers of both
-        positive and negative customer experiences.
-    </li>
+    <li>Most reviews are positive or neutral, but serious issues exist within delivery and support.</li>
+    <li>High-priority negative feedback provides actionable signalsfor customer service and operations teams.</li>
+    <li>Product and support quality are important drivers of bothpositive and negative customer experiences.</li>
 </ul>
 
-
-<!-- CONCLUSION -->
 <h2>✨ Conclusion</h2>
 
-<p>
-    This project demonstrates how generative AI can transform raw
-    customer feedback into structured business intelligence.
-</p>
+<p>This project demonstrates how generative AI can transform rawcustomer feedback into structured business intelligence.</p>
 
-<p>
-    By combining <strong>Python, Gemini AI, SQL Server, and Power BI</strong>,
-    the pipeline converts free-text customer reviews into measurable
-    insights that can support product, customer support, and logistics
-    teams.
-</p>
+<p>By combining <strong>Python, Gemini AI, SQL Server, and Power BI</strong>,the pipeline converts free-text customer reviews into measurableinsights that can support product, customer support, and logistics teams.</p>
 
-
-<!-- FUTURE WORK -->
 <h2>🏢 Future Work</h2>
 
 <ul>
@@ -647,41 +321,18 @@ Database: CustomerAnalytics</pre>
     <li>Build a web application or REST API for real-time analysis</li>
 </ul>
 
-
-<!-- AUTHOR -->
 <h2>📡 Author & Contact</h2>
 
 <div class="highlight">
-
-    <p>
-        <strong>Author:</strong> dna5421
-    </p>
-
-    <p>
-        <strong>GitHub Profile:</strong>
-        <a href="https://github.com/dna5421" target="_blank">
-            github.com/dna5421
-        </a>
-    </p>
-
-    <p>
-        <strong>Repository:</strong>
-        <a href="https://github.com/dna5421/AI-Powered-Customer-Feedback-Analysis-" target="_blank">
-            AI-Powered-Customer-Feedback-Analysis
-        </a>
-    </p>
+    <p><strong>Author:</strong> dna5421</p>
+    <p><strong>GitHub Profile:</strong><a href="https://github.com/dna5421" target="_blank">github.com/dna5421</a></p>
+    <p><strong>Repository:</strong><a href="https://github.com/dna5421/AI-Powered-Customer-Feedback-Analysis-" target="_blank">AI-Powered-Customer-Feedback-Analysis</a></p>
 
 </div>
 
-
-<!-- FOOTER -->
 <div class="footer">
-    <p>
-        AI-Powered Customer Feedback Analysis |
-        Python • Gemini AI • SQL Server • Power BI
-    </p>
+    <p>AI-Powered Customer Feedback Analysis |Python • Gemini AI • SQL Server • Power BI</p>
 </div>
-```
 
 </div>
 
