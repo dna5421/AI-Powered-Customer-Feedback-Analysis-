@@ -287,6 +287,7 @@ Database: CustomerAnalytics</pre>
 
 <h2>🏢 Future Work</h2>
 
+<section class="section">
 <ul>
     <li>Use a larger real-world customer feedback dataset</li>
     <li>Add multilingual feedback analysis</li>
@@ -296,19 +297,17 @@ Database: CustomerAnalytics</pre>
     <li>Compare Gemini results with traditional sentiment models</li>
     <li>Build a web application or REST API for real-time analysis</li>
 </ul>
+</section>
 
-<h2>📡 Author & Contact</h2>
+<footer class="footer">
+ <h2>📡 Author & Contact</h2>
+ <p style="margin-top: 15px;">👤 Author: <strong>dna5421</strong></p>
+ <p>📧 GitHub Profile:<a href="https://github.com/dna5421"target="_blank">github.com/dna5421</a></p>
+ <p>🔗 Repository:</strong><a href="https://github.com/dna5421/AI-Powered-Customer-Feedback-Analysis-Dashboard"target="_blank">AI-Powered-Customer-Feedback-Analysis-Dashboard</a></p>
 
-<div class="highlight">
-    <p><strong>Author:</strong> dna5421</p>
-    <p><strong>GitHub Profile:</strong><a href="https://github.com/dna5421" target="_blank">github.com/dna5421</a></p>
-    <p><strong>Repository:</strong><a href="https://github.com/dna5421/AI-Powered-Customer-Feedback-Analysis-Dashboard" target="_blank">AI-Powered-Customer-Feedback-Analysis</a></p>
+</footer>
 
-</div>
 
-<div class="footer">
-    <p>AI-Powered Customer Feedback Analysis |Python • Gemini AI • SQL Server • Power BI</p>
-</div>
 
 </div>
 
