@@ -4,20 +4,9 @@
 <h1>🎯 AI-Powered Customer Feedback Analysis</h1>
 
 <h2>📝 Project Overview</h2>
+<p>This project analyzes customer feedback using<strong>Python</strong> and a <strong>generative AI model</strong>to classify each review by sentiment, category, emotion, priority,summary, and recommended action.</p>
 
-<p>
-    This project analyzes customer feedback using
-    <strong>Python</strong> and a <strong>generative AI model</strong>
-    to classify each review by sentiment, category, emotion, priority,
-    summary, and recommended action.
-</p>
-
-<p>
-    The processed output is saved as a CSV file and inserted into
-    <strong>Microsoft SQL Server</strong> for reporting and analytics.
-    <strong>Power BI</strong> is then used as the final business-facing
-    visualization layer.
-</p>
+<p>The processed output is saved as a CSV file and inserted into<strong>Microsoft SQL Server</strong> for reporting and analytics.<strong>Power BI</strong> is then used as the final business-facing visualization layer.</p>
 
 <div class="highlight">
     <strong>End-to-End Pipeline:</strong>
@@ -25,23 +14,12 @@
     Structured Data → SQL Server → Power BI Dashboard
 </div>
 
-
 <h2>📝 Problem Statement</h2>
+<p>Businesses often receive large volumes of customer feedback acrossproduct quality, delivery, support, pricing, and other categories.Manually reviewing each comment is slow, inconsistent, and can miss
+    urgent issues.</p>
 
-<p>
-    Businesses often receive large volumes of customer feedback across
-    product quality, delivery, support, pricing, and other categories.
-    Manually reviewing each comment is slow, inconsistent, and can miss
-    urgent issues.
-</p>
-
-<p>
-    This project automates the analysis process by labeling comments,
-    identifying dissatisfied customers, highlighting high-priority issues,
-    and creating a structured data pipeline for business monitoring and
-    decision-making.
-</p>
-
+<p>This project automates the analysis process by labeling comments,identifying dissatisfied customers, highlighting high-priority issues,and creating a structured data pipeline for business monitoring and
+    decision-making.</p>
 
 <h2>📊 Dataset</h2>
 
@@ -74,18 +52,16 @@
 
 <code>customer_feedback_ai_analysis_2026-09-20_13-11-49.csv</code>
 
-
-
 <h2>⚒️ Tools and Technologies</h2>
 
 <div class="card-container">
-    <div class="card"><strong>Programming</strong>Python, Pandas</div>
-    <div class="card"><strong>Generative AI</strong>Google Gemini AI API</div>
-    <div class="card"><strong>Database</strong>Microsoft SQL Server</div>
-    <div class="card"><strong>Database Connectivity</strong>SQLAlchemy, pyodbc, ODBC Driver 17</div>
-    <div class="card"><strong>Visualization</strong>Microsoft Power BI</div>
-    <div class="card"><strong>Data Formats</strong>CSV and Excel-style reporting</div>
-    <div class="card"><strong>Configuration</strong>Python dotenv</div>
+    <div class="card"><strong>Programming:</strong>Python, Pandas</div>
+    <div class="card"><strong>Generative AI:</strong>Google Gemini AI API</div>
+    <div class="card"><strong>Database:</strong>Microsoft SQL Server</div>
+    <div class="card"><strong>Database Connectivity:</strong>SQLAlchemy, pyodbc, ODBC Driver 17</div>
+    <div class="card"><strong>Visualization:</strong>Microsoft Power BI</div>
+    <div class="card"><strong>Data Formats:</strong>CSV and Excel-style reporting</div>
+    <div class="card"><strong>Configuration:</strong>Python dotenv</div>
 
 </div>
 
